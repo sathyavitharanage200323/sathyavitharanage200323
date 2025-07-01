@@ -22,7 +22,7 @@
 - 🌱 Currently learning: `React`, `Vue`, `UI/UX with Figma`
 - 🚀 Building: [Grade 5 Learning App](https://github.com/sathya/grade5-learning-app)
 - 📫 Reach me: **sathyamadhubhashinivithanage@gmail.com**
-- 🎧 Fun Fact: I debug better with music* 😄
+- 🎧 Fun Fact: I debug better with music 😄
 
 ---
 
