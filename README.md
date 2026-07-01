@@ -341,7 +341,7 @@ Modern responsive websites using the latest frontend technologies.
 
 | 📧 Email | 🌍 Location | 🎓 Education |
 |----------|-------------|--------------|
-| sathyamadhubhashinivithanage@gmail.com | Sri Lanka 🇱🇰 | SLIIT |
+| sathyamadhubhashinivithanage@gmail.com | Kandy 🇱🇰 | SLIIT |
 
 </div>
 
