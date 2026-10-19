@@ -1,10 +1,12 @@
+<img width="2048" height="768" alt="501e9562-59ce-4aeb-9759-c9adb804e17c" src="https://github.com/user-attachments/assets/366bf3bb-e881-4c71-99b5-d3bbd7a58fe9" />
+
 <!-- ========================================================= -->
 <!--                    GITHUB PROFILE README                   -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=Ayubowan!%20I'm%20Sathya%20🌸&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20IT%20Undergraduate&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&text=%20I'm%20Sathya%20🌸&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20stack%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20IT%20Undergraduate&descAlignY=58&descSize=17"/>
 
 </div>
 
