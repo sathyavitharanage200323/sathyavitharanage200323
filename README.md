@@ -57,13 +57,6 @@ I'm **Sathya**, a passionate IT undergraduate from **Sri Lanka 🇱🇰** who lo
 
 </td>
 
-<td>
-
-<img width="3250" height="3250" alt="2 (1)" src="https://github.com/user-attachments/assets/df5537e1-79c1-4e30-be5e-f2a954c0468e" />
-
-
-</td>
-
 </tr>
 </table>
 
@@ -192,27 +185,6 @@ I'm **Sathya**, a passionate IT undergraduate from **Sri Lanka 🇱🇰** who lo
 <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathyavitharanage200323&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=10"/>
 
 </div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sathyavitharanage200323&theme=react-dark&hide_border=true&radius=15&area=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sathyavitharanage200323&theme=radical&no-frame=true&row=2&column=4"/>
-
-</div>
-
 ---
 
 ### 📱 UI/UX Design Collection
@@ -343,102 +315,6 @@ Modern responsive websites using the latest frontend technologies.
 | 📧 Email | 🌍 Location | 🎓 Education |
 |----------|-------------|--------------|
 | sathyamadhubhashinivithanage@gmail.com | Kandy 🇱🇰 | SLIIT |
-
-</div>
-
----
-
-# 🌸 Daily Motivation
-
-<div align="center">
-
-> **"Great software isn't just built with code—it's built with creativity, curiosity, and consistency."**
-
-</div>
-
----
-
-# ⚡ Fun Facts
-
-- 🌸 I love designing clean and aesthetic user interfaces.
-- ☕ Coffee is my favorite coding companion.
-- 🎧 Lo-fi music helps me focus.
-- 💖 I enjoy learning new frontend technologies.
-- 🚀 I believe every project teaches something valuable.
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-![](https://img.shields.io/badge/UI/UX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</div>
-
----
-
-# 🎵 Favorite Workflow
-
-```text
-☕ Coffee
-     ↓
-🎧 Lo-fi Music
-     ↓
-💻 Coding
-     ↓
-🐛 Debugging
-     ↓
-🚀 Deploy
-     ↓
-😴 Sleep
-```
-
----
-
-# 📈 Profile Summary
-
-<div align="center">
-
-| 💖 | |
-|----|----|
-| 🎓 | IT Undergraduate |
-| 💻 | Frontend Developer |
-| 🎨 | UI/UX Designer |
-| 🌱 | Lifelong Learner |
-| ☕ | Coffee Lover |
-| 🇱🇰 | Sri Lanka |
-
-</div>
-
----
-
-
-# 💬 Random Developer Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-
-
-# ❤️ Support My Work
-
-<div align="center">
-
-If you enjoy my projects, consider giving them a ⭐.
-
-It motivates me to keep building and learning.
 
 </div>
 
