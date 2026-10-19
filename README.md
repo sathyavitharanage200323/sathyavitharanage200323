@@ -39,10 +39,9 @@ I'm **Sathya**, a passionate IT undergraduate from **Sri Lanka 🇱🇰** who lo
 
 ### 🌷 A little about me
 
-- 🎓 2nd Year IT Undergraduate
-- 💻 Frontend Developer
+- 🎓 4nd Year IT Undergraduate
+- 💻 Full stack Developer
 - 🎨 UI/UX Designer
-- 🌱 Currently learning React & Vue
 - 📱 Love building mobile-friendly websites
 - ☕ Coffee keeps me coding
 - 🎵 Lo-fi music while programming
